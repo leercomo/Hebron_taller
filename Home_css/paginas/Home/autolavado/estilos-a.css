@@ -1,0 +1,155 @@
+*{
+  font-family: 'Merriweather', serif;
+  color: white;
+}
+body {
+	width: 100%;
+	margin: 0 auto;
+	height: auto;
+	background-color: #252525;
+	background-size: 1200px 2250px;
+	position:  relative;
+}
+.title {
+  text-align: center;
+  font-size: 36px;
+  color: #DA290F;
+  text-shadow: 10px 2px 7px black;
+}
+.logo{
+  display: inline-block;
+  margin-left: 400px;
+  margin-bottom: 50px;
+  text-aling: center;
+}
+div{
+  border: 5px;
+  padding: 20px;
+  margin: 0px;
+  text-align: right;
+  background-color: #f86d6d;
+
+}
+./*slogan{
+  display: inline-block;
+  font-size: 25px;
+  background-color: #959FC2;
+  margin-left:350px;
+  margin-bottom: 50px;
+  border: 10 px groove #D0B3D3;
+}*/
+ul{
+  margin-bottom: 60px;
+}
+#pf1{
+  margin-top: 50px;
+  text-shadow: 2px 2px 5px red;
+}
+.lavado__img, .lavado__img2{
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.lavado__p{
+  display: inline-block;
+  margin-bottom: 20px;
+}
+#pf2{
+  text-shadow: 2px 2px 5px red;
+}
+.lavado-motor__img, .lavado-motor__img2{
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.lavado-motor__p{
+  display: inline-block;
+  margin-bottom: 20px;
+}
+#pf3{
+  text-shadow: 2px 2px 5px red;
+}
+.polichado__img, .polichado__img2{
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.polichado__p{
+  display: inline-block;
+  margin-bottom: 20px;
+}
+#pf4{
+  text-shadow: 2px 2px 5px red;
+}
+.grafitado__img, .grafitado__img2{
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.grafitado__p{
+  display: inline-block;
+  margin-bottom: 20px;
+}
+#pf5{
+  text-shadow: 2px 2px 5px red;
+}
+.petrolizado__img, .petrolizado__img2{
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.petrolizado__p{
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.parrafo{
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.footer{
+  padding: 60px;
+  color: white;
+  margin-top: 0px;
+  margin-right: 30px;
+  margin-bottom: 0px;
+  margin-left: 50px;
+  text-align: center;
+  background-color: #f86d6d;
+}
+a:link {
+  color: #27c6ee;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #EF1526;
+  background-color: transparent;
+  text-decoration: none;
+}
+div a:visited {
+  color: #e0e0e0;
+  background-color: transparent;
+  text-decoration: none;
+}
+.footer a:visited{
+  color: #27c6ee;
+  background-color: transparent;
+  text-decoration: none; 
+}
+div a:hover {
+  color:#099bc0;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color:#099bc0;
+  background-color: transparent;
+  text-decoration: none;
+}
+.footer a:hover{
+  color:#099bc0;
+  background-color: transparent;
+  text-decoration: none;
+}
